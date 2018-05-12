@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6250'
     url: http://www.gutenberg.org/2009/agents/6250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36569#A-Catalogue-of-Books-Published-by-Methuen-and-Company-February-1908
 gutenberg_issued: '2011-06-30'
 gutenberg_type: Text
 identifiers:
